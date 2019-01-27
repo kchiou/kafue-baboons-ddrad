@@ -1,0 +1,3 @@
+[submodule "NGS-map"]
+	path = NGS-map
+	url = https://github.com/bergeycm/NGS-map
